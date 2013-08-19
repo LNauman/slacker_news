@@ -1,0 +1,216 @@
+*{
+  margin: 0 0;
+  padding: 0 0;
+}
+
+body { 
+  font-family: Verdana;
+  margin: 8px 8% 8px;
+}
+
+a {
+  font-family: Verdana;
+}
+
+.nav {
+  background-color: #FF6600;
+}
+
+
+.nav a{
+  color: black;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.nav li {
+  display: inline-block;
+  list-style: none;
+
+}
+
+.nav li:first-child {
+  border: 2px solid white;
+  margin: 2px 2px;
+  color: white;
+  font-size: 12.5px;
+  padding-right: 4px;
+  padding-left: 4px;
+}
+
+.nav li:last-child {
+  text-indent: 425px;
+  font-size: 12.5px;
+  padding-right: 4px;
+  padding-left: 4px;
+}
+
+.footer {
+  border-top: 2px solid #FF6600;
+  background-color: #f6f6ef;
+  padding-bottom: 10px;
+  text-align: center;
+  padding-right: 30px;
+}
+
+.footer a {
+  color: black;
+  text-decoration: none;
+  font-size: 11px;
+}
+
+.footer li {
+  list-style: none;
+  display:inline-block;
+  font-size: 11px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.main {
+  background-color: #f6f6ef;
+  padding: 5px;
+}
+
+.main h1{
+  font-size: 11px;
+  color: #828282;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+.main h1 a{
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 12.5px;
+}
+
+.main h2{
+  color: #828282;
+  font-size: 10px;
+  font-weight: normal;
+  margin: 0 0 5px 0;
+  padding-left: 10px;
+}
+
+.main h2 a{
+  color: #828282;
+  font-size: 10px;
+  text-decoration: none;
+}
+
+.main h2 a:hover{
+  text-decoration: underline;
+}
+
+.main ol{
+  color: #828282;
+  font-size: 12px;
+  margin-left: 25px;
+}
+
+form {
+  color: #828282;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+#articletitle {
+  margin-top: 15px;
+}
+
+.comments {
+  background-color: #f6f6ef;
+  padding: 5px;
+}
+
+.comments h1{
+  font-size: 11px;
+  color: #828282;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+.comments h1 a{
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 12.5px;
+}
+
+.comments h2{
+  color: #828282;
+  font-size: 10px;
+  font-weight: normal;
+  margin: 0 0 5px 0;
+  padding-left: 10px;
+}
+
+.comments h2 a{
+  color: #828282;
+  font-size: 10px;
+  text-decoration: none;
+}
+
+.comments h2 a:hover{
+  text-decoration: underline;
+}
+
+.comments ul{
+  color: #828282;
+  font-size: 12px;
+  margin-left: 25px;
+  list-style: none;
+}
+.comments ul h1 a{
+  font-size: 10px;
+  color: #828282;
+}
+
+.comments ul h1 a:hover{
+  text-decoration: underline;
+}
+
+.comments ul h2{
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 12.5px;
+  margin-top: 10px;
+}
+
+.comments ul h3 a{
+  font-size: 10px;
+  color: black;
+  margin: 10px;
+  font-weight: normal;
+}
+
+.button {
+  margin: 20px;
+}
+
+.textbox {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
