@@ -17,6 +17,9 @@ SlackerNews::Application.routes.draw do
   # Example resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
 
+
+# This is a change
+
   # Example resource route with options:
   #   resources :products do
   #     member do
